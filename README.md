@@ -9,5 +9,3 @@
 ### | $\textsf{\color{#a5a5a5}PostgreSQL}$ | $\textsf{\color{#a5a5a5}SQLite}$ | $\textsf{\color{#a5a5a5}Redis}$ |  
 ### | $\textsf{\color{#a5a5a5}Docker}$ | $\textsf{\color{#a5a5a5}Git}$ | $\textsf{\color{#a5a5a5}CI/CD}$ |  
 ### | $\textsf{\color{#a5a5a5}Agile}$ | $\textsf{\color{#a5a5a5}SCRUM}$ | $\textsf{\color{#a5a5a5}Kanban}$ | $\textsf{\color{#a5a5a5}Trello}$ |  
-[## $\textup{\color{#00A2E3}Мой GitHub статус}$]: #
-[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinVi&layout=compact&bg_color=22272e&hide_border=true&title_color=a5a5a5&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)]: #
