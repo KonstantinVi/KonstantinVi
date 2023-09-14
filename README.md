@@ -1,7 +1,6 @@
 ![images Planet](images/Planet.png)
 # $\textsf{\color{#cccccc}Приветствую тебя! }\textsf{\color{#737373}Я backend разработчик}$  
 ## $\textup{\color{#00A2E3}Мои контакты}$  
-[<img src="./images/001_LL.png" width="40"/>](https://www.linkedin.com/in/konstantin-bezliud-ko-44402872/) &nbsp; 
 [<img src="./images/002_TL.png" width="40"/>](https://t.me/Konstantin_Maksimovv) &nbsp; 
 [<img src="./images/004_e-mail.png" width="51"/>](mailto:kbrb1515@gmail.com)  
 ## $\textup{\color{#00A2E3}Мой стек технологий}$
