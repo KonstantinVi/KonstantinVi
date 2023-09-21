@@ -1,7 +1,6 @@
 ![images Planet](images/Planet.png)
 ## Приветствую тебя! Я backend разработчик  
 
----
 
 ### Мои контакты  
 
