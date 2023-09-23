@@ -13,7 +13,7 @@
 ### | Python | HTML | CSS | JS |  
 ### | REST api | Bootstrap |   
 ### | PostgreSQL | SQLite | SQLAlchemy | Redis |  
-### | Docker | Git |
+### | Docker | Docker Compose | Git |
 ### | PyTest | unittest | Selenium |
 ### | Agile | SCRUM | Kanban |
 
