@@ -10,9 +10,12 @@
 ---
 
 ## `Мой стек технологий`
-### | Python | HTML | CSS | JS | Bootstrap |
-### | Flask | Django | REST api | DRF |
-### | SQLAlchemy | PostgreSQL | SQLite | Redis |
+### | Python 3 |
+### | HTML 5 | CSS 3 | JS | Bootstrap 5 |
+### | Flask | SQLAlchemy |
+### | Django | DRF | ORM |
+### | REST api | Celery | Redis |
+### | PostgreSQL | MySQL | SQLite |
 ### | Docker | Docker Compose | Git |
 ### | PyTest | unittest | Selenium |
 ### | Agile | SCRUM | Kanban |
